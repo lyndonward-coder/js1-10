@@ -169,6 +169,7 @@ function countYZ(arry){
     return count;
 }
 
+
 function endOther(letters1, letters2){
     var result
     var lower1 = letters1.toLowerCase();
